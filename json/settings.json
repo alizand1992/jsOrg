@@ -1,0 +1,97 @@
+{
+  "settings" : [
+    {
+      "banner": [
+        {
+          "width": [
+            {
+              "value": 100,
+              "unit": "%"
+            }
+          ],
+          "height": [
+            {
+              "value": 50,
+              "unit": "px"
+            }
+          ],
+          "bgColor": "black",
+          "txtColor": "white",
+          "position": [
+            {
+              "top": [
+                {
+                  "value": 0,
+                  "unit": "px"
+                }
+              ],
+              "left": [
+                {
+                  "value": 0,
+                  "unit": "px"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "left-container": [
+        {
+          "width": "33%",
+          "position": [
+            {
+              "mode": "absolute",
+              "top": [
+                {
+                  "value": 0,
+                  "unit": "px"
+                }
+              ],
+              "left": ""
+            }
+          ],
+          "bgColor": "black",
+          "txtColor": "white"
+        }
+      ],
+      "middle": [
+        {
+          "width": "34%",
+          "position": [
+            {
+              "mode": "absolute",
+              "top": "",
+              "left": ""
+            }
+          ],
+          "bgColor": "black",
+          "txtColor": "white"
+        }
+      ],
+      "right": [
+        {
+          "width": "33%",
+          "position": [
+            {
+              "mode": "absolute",
+              "top": "",
+              "left": ""
+            }
+          ],
+          "bgColor": "black",
+          "txtColor": "white",
+          "trans": "100"
+        }
+      ],
+      "lowerStrip": [
+        {
+          "width": "100%",
+          "height": "50px",
+          "bgColor": "black",
+          "txtColor": "white",
+          "trans": "100"
+        }
+      ]
+    }
+  ]
+}
