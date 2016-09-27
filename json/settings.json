@@ -15,8 +15,6 @@
               "unit": "px"
             }
           ],
-          "bgColor": "black",
-          "txtColor": "white",
           "position": [
             {
               "top": [
@@ -32,12 +30,20 @@
                 }
               ]
             }
-          ]
+          ],
+          "bgColor": "black",
+          "txtColor": "white",
+          "trans": 100
         }
       ],
       "left-container": [
         {
-          "width": "33%",
+          "width": [
+            {
+              "value": 0,
+              "unit": "%"
+            }
+          ],
           "position": [
             {
               "mode": "absolute",
@@ -47,49 +53,81 @@
                   "unit": "px"
                 }
               ],
-              "left": ""
+              "left": [
+                {
+                  "value": 0,
+                  "unit": "px"
+                }
+              ]
             }
           ],
           "bgColor": "black",
-          "txtColor": "white"
+          "txtColor": "white",
+          "trans": 100
         }
       ],
-      "middle": [
+      "middle-container": [
         {
-          "width": "34%",
+          "width": [
+            {
+              "value": 34,
+              "unit": "%"
+            }
+          ],
           "position": [
             {
               "mode": "absolute",
-              "top": "",
-              "left": ""
+              "top": [
+                {
+                  "value": 0,
+                  "unit": "px"
+                }
+              ],
+              "left": [
+                {
+                  "value": 0,
+                  "unit": "px"
+                }
+              ]
             }
           ],
           "bgColor": "black",
-          "txtColor": "white"
+          "txtColor": "white",
+          "trans": 100
         }
       ],
-      "right": [
+      "right-container": [
         {
           "width": "33%",
           "position": [
             {
               "mode": "absolute",
-              "top": "",
-              "left": ""
+              "top": 0,
+              "left": 0
             }
           ],
           "bgColor": "black",
           "txtColor": "white",
-          "trans": "100"
+          "trans": 100
         }
       ],
       "lowerStrip": [
         {
-          "width": "100%",
-          "height": "50px",
+          "width": [
+            {
+              "value": 100,
+              "unit": "%"
+            }
+          ],
+          "height": [
+            {
+              "value": 50,
+              "unit": "px"
+            }
+          ],
           "bgColor": "black",
           "txtColor": "white",
-          "trans": "100"
+          "trans": 100
         }
       ]
     }
