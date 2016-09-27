@@ -5,7 +5,7 @@
 		  integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
 		  crossorigin="anonymous"></script>
   </head>
-  <bdoy>
+  <bdoy onload="readSettings()">
 	  <div id="main-container">
 		  <div id="left-container">
 
