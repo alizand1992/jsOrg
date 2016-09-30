@@ -24,3 +24,7 @@
 127.0.0.1 - - [25/Sep/2016:14:57:16 -0700] "GET /favicon.ico HTTP/1.1" 404 500 "http://jsorg.ali/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36 OPR/36.0.2130.65"
 127.0.0.1 - - [26/Sep/2016:16:36:43 -0700] "GET / HTTP/1.1" 200 495 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36 OPR/36.0.2130.65"
 127.0.0.1 - - [26/Sep/2016:16:36:43 -0700] "GET /favicon.ico HTTP/1.1" 404 500 "http://jsorg.ali/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36 OPR/36.0.2130.65"
+127.0.0.1 - - [29/Sep/2016:21:20:48 -0700] "GET / HTTP/1.1" 200 546 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36 OPR/36.0.2130.65"
+127.0.0.1 - - [29/Sep/2016:21:20:48 -0700] "GET /js/settings.js HTTP/1.1" 200 562 "http://jsorg.ali/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36 OPR/36.0.2130.65"
+127.0.0.1 - - [29/Sep/2016:21:20:48 -0700] "GET /js/main.js HTTP/1.1" 200 439 "http://jsorg.ali/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36 OPR/36.0.2130.65"
+127.0.0.1 - - [29/Sep/2016:21:20:48 -0700] "GET /json/settings.json HTTP/1.1" 200 2966 "http://jsorg.ali/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36 OPR/36.0.2130.65"
