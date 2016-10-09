@@ -1,8 +1,42 @@
 {
   "settings" : [
     {
-      "banner": [
+      "element": [
         {
+          "id": "banner",
+          "border": [
+            {
+              "sides": [
+                {
+                  "left": [
+                    {
+                      "width": 1,
+                      "unit": "px"
+                    }
+                  ],
+                  "right": [
+                    {
+                      "width": 1,
+                      "unit": "px"
+                    }
+                  ],
+                  "top": [
+                    {
+                      "width": 1,
+                      "unit": "px"
+                    }
+                  ],
+                  "bottom": [
+                    {
+                      "width": 1,
+                      "unit": "px"
+                    }
+                  ]
+                }
+              ],
+              "color": "black"
+            }
+          ],
           "width": [
             {
               "value": 100,
@@ -36,8 +70,42 @@
           "trans": 100
         }
       ],
-      "left-container": [
+      "element": [
         {
+          "id": "left-container",
+          "border": [
+            {
+              "sides": [
+                {
+                  "left": [
+                    {
+                      "width": 1,
+                      "unit": "px"
+                    }
+                  ],
+                  "right": [
+                    {
+                      "width": 1,
+                      "unit": "px"
+                    }
+                  ],
+                  "top": [
+                    {
+                      "width": 1,
+                      "unit": "px"
+                    }
+                  ],
+                  "bottom": [
+                    {
+                      "width": 1,
+                      "unit": "px"
+                    }
+                  ]
+                }
+              ],
+              "color": "black"
+            }
+          ],
           "width": [
             {
               "value": 0,
@@ -66,8 +134,42 @@
           "trans": 100
         }
       ],
-      "middle-container": [
+      "element": [
         {
+          "id": "middle-container",
+          "border": [
+            {
+              "sides": [
+                {
+                  "left": [
+                    {
+                      "width": 1,
+                      "unit": "px"
+                    }
+                  ],
+                  "right": [
+                    {
+                      "width": 1,
+                      "unit": "px"
+                    }
+                  ],
+                  "top": [
+                    {
+                      "width": 1,
+                      "unit": "px"
+                    }
+                  ],
+                  "bottom": [
+                    {
+                      "width": 1,
+                      "unit": "px"
+                    }
+                  ]
+                }
+              ],
+              "color": "black"
+            }
+          ],
           "width": [
             {
               "value": 34,
@@ -96,8 +198,42 @@
           "trans": 100
         }
       ],
-      "right-container": [
+      "element": [
         {
+          "id": "right-container",
+          "border": [
+            {
+              "sides": [
+                {
+                  "left": [
+                    {
+                      "width": 1,
+                      "unit": "px"
+                    }
+                  ],
+                  "right": [
+                    {
+                      "width": 1,
+                      "unit": "px"
+                    }
+                  ],
+                  "top": [
+                    {
+                      "width": 1,
+                      "unit": "px"
+                    }
+                  ],
+                  "bottom": [
+                    {
+                      "width": 1,
+                      "unit": "px"
+                    }
+                  ]
+                }
+              ],
+              "color": "black"
+            }
+          ],
           "width": "33%",
           "position": [
             {
@@ -111,8 +247,42 @@
           "trans": 100
         }
       ],
-      "lowerStrip": [
+      "element": [
         {
+          "id": "lowerStrip",
+          "border": [
+            {
+              "sides": [
+                {
+                  "left": [
+                    {
+                      "width": 1,
+                      "unit": "px"
+                    }
+                  ],
+                  "right": [
+                    {
+                      "width": 1,
+                      "unit": "px"
+                    }
+                  ],
+                  "top": [
+                    {
+                      "width": 1,
+                      "unit": "px"
+                    }
+                  ],
+                  "bottom": [
+                    {
+                      "width": 1,
+                      "unit": "px"
+                    }
+                  ]
+                }
+              ],
+              "color": "black"
+            }
+          ],
           "width": [
             {
               "value": 100,

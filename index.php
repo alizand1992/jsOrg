@@ -9,6 +9,9 @@
   </head>
   <body onload="readSettings();">
 	  <div id="main-container">
+		  <div id="banner">
+
+		  </div>
 		  <div id="left-container">
 
 		  </div>
@@ -16,6 +19,9 @@
 
 		  </div>
 		  <div id="right-container">
+
+		  </div>
+		  <div id="lowerStrip">
 
 		  </div>
 	  </div>

@@ -10,9 +10,9 @@ function readSettings() {
 }
 
 function loadSettings(data) {
-    var items = [];
-    $.each (data.settings, function (key, val) {
-        console.log(this.banner);
+    var mainSetting = data.settings;
+    $.each (mainSetting, function (key, val) {
+        console.log(val);
     });
 }
 
