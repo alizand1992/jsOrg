@@ -67,7 +67,7 @@
           ],
           "background": "black",
           "color": "white",
-          "trans": 100
+          "opacity": 100
         }
       ]
     },
@@ -133,7 +133,7 @@
           ],
           "background": "black",
           "color": "white",
-          "trans": 100
+          "opacity": 100
         }
       ]
     },
@@ -199,7 +199,7 @@
           ],
           "background": "black",
           "color": "white",
-          "trans": 100
+          "opacity": 100
         }
       ]
     },
@@ -255,7 +255,7 @@
           ],
           "background": "black",
           "color": "white",
-          "trans": 100
+          "opacity": 100
         }
       ]
     },
@@ -310,7 +310,7 @@
           ],
           "background": "black",
           "color": "white",
-          "trans": 100
+          "opacity": 100
         }
       ]
     }

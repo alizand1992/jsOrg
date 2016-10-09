@@ -16,21 +16,19 @@ function loadSettings(data) {
     var colors = [];
     var widths = [];
     $.each (mainSetting, function (key, val) {
-
         $.each (val.element, function (subKey, subVal) {
-            ids.push(subVal.id);
-            bgColors.push(subVal.background);
-            colors.push(subVal.color);
-            var widthStr = "";
-            $.each(subVal.width, function (widthKey, widthVal) {
-                widthStr = widthVal.value + widthVal.unit;
+            $.each(subVal, function (key1, val) {
+                if (key1 != "id") {
+                    $("#" + subVal.id).css(key1, val);
+                    console.log(subVal.id);
+                    console.log(key1);
+                    console.log(val);
+                }
             });
-            widths.push(widthStr);
         })
     });
 
     for (var i = 0; i < ids.length; i++) {
-        console.log(widths[i]);
         $('#' + ids[i]).css({
             "background": bgColors[i],
             "color": colors[i],
