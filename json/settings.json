@@ -39,8 +39,8 @@
           ],
           "width": [
             {
-              "value": 100,
-              "unit": "%"
+              "value": 20,
+              "unit": "px"
             }
           ],
           "height": [
@@ -65,11 +65,13 @@
               ]
             }
           ],
-          "bgColor": "black",
-          "txtColor": "white",
+          "background": "black",
+          "color": "white",
           "trans": 100
         }
-      ],
+      ]
+    },
+    {
       "element": [
         {
           "id": "left-container",
@@ -108,7 +110,7 @@
           ],
           "width": [
             {
-              "value": 0,
+              "value": 50,
               "unit": "%"
             }
           ],
@@ -129,11 +131,13 @@
               ]
             }
           ],
-          "bgColor": "black",
-          "txtColor": "white",
+          "background": "black",
+          "color": "white",
           "trans": 100
         }
-      ],
+      ]
+    },
+    {
       "element": [
         {
           "id": "middle-container",
@@ -193,11 +197,13 @@
               ]
             }
           ],
-          "bgColor": "black",
-          "txtColor": "white",
+          "background": "black",
+          "color": "white",
           "trans": 100
         }
-      ],
+      ]
+    },
+    {
       "element": [
         {
           "id": "right-container",
@@ -234,7 +240,12 @@
               "color": "black"
             }
           ],
-          "width": "33%",
+          "width": [
+            {
+              "value": 30,
+              "unit": "px"
+            }
+          ],
           "position": [
             {
               "mode": "absolute",
@@ -242,11 +253,13 @@
               "left": 0
             }
           ],
-          "bgColor": "black",
-          "txtColor": "white",
+          "background": "black",
+          "color": "white",
           "trans": 100
         }
-      ],
+      ]
+    },
+    {
       "element": [
         {
           "id": "lowerStrip",
@@ -295,8 +308,8 @@
               "unit": "px"
             }
           ],
-          "bgColor": "black",
-          "txtColor": "white",
+          "background": "black",
+          "color": "white",
           "trans": 100
         }
       ]

@@ -10,19 +10,19 @@
   <body onload="readSettings();">
 	  <div id="main-container">
 		  <div id="banner">
-
+	a
 		  </div>
 		  <div id="left-container">
-
+b
 		  </div>
 		  <div id="middle-container">
-
+c
 		  </div>
 		  <div id="right-container">
-
+d
 		  </div>
 		  <div id="lowerStrip">
-
+e
 		  </div>
 	  </div>
   </body>
